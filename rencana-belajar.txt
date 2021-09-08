@@ -2,7 +2,10 @@ rencana belajar
 
 - nonton youtube
   1. WPU
+      * github
   2. Lain
 - baca dokumentasi
   1. codeigniter
 - bikin project
+  1. CRUD
+- colab
