@@ -4,4 +4,5 @@ rencana belajar
   1. WPU
   2. Lain
 - baca dokumentasi
+  1. codeigniter
 - bikin project
