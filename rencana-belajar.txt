@@ -2,6 +2,8 @@ rencana belajar
 
 - nonton youtube
   1. WPU
+    * React
+    * NodeJS
   2. Lain
 - baca dokumentasi
   1. codeigniter
