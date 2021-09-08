@@ -2,9 +2,12 @@ rencana belajar
 
 - nonton youtube
   1. WPU
-    * React
     * NodeJS
+    * github
+    * php
   2. Lain
 - baca dokumentasi
   1. codeigniter
 - bikin project
+  1. CRUD
+- colab
